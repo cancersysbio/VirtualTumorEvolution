@@ -1,12 +1,13 @@
-###################################################################################
-## A Python script to simulate 3D tumor growth and multi-region sequencing data  ##
-## via an agent-based model. Deme subdivision is assumed in order to model cell  ##
-## mixing and spatial contraint.                                                 ##
-##                                                                               ##
-## Spatial model: pripheral growth                                               ##
-## Author: Zheng Hu in Curtis lab@Stanford                                       ##
-## Release Date: 2/20/2017                                                       ##
-###################################################################################
+### VirtualTumorEvolution
+A Python script to simulate 3D tumor growth and multi-region sequencing data 
+via an agent-based model. Deme subdivision is assumed in order to model cell
+mixing and spatial contraint
+Spatial model: pripheral growth
+
+Author
+---
+Zheng Hu in Curtis lab@Stanford
+Release Date: 2/20/2017
 
 
 Requirements
