@@ -7,7 +7,7 @@ mixing and spatial contraint
 Author
 ---
 * Zheng Hu in Curtis lab@Stanford
-* Release Date: 2/20/2017
+* Release Date: 2/23/2017
 
 
 Requirements
@@ -23,5 +23,4 @@ Usage
 To run the script
 
 	$ python 3DTumorSimul_MultiRegionSeq.py deme_size mut_rate adv_rate s_coef repl
-
-e.g. python 3DTumorSimul_MultiRegionSeq.py 5000 0.6 0.00001 0.1 0
+	e.g., python 3DTumorSimul_MultiRegionSeq.py 5000 0.6 0.00001 0.1 0
